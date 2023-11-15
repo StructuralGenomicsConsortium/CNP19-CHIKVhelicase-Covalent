@@ -1,6 +1,6 @@
 # CNP19-CHIKVhelicase-Covalent
 
-An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 19) dedicated to finding hits vs CHIKV helicase based on a high throuput screening of Enamina Covalent set.
+An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project (number 19) dedicated to finding hits vs CHIKV helicase based on a high throuput screening of [Enamine Covalent set](https://enamine.net/compound-libraries/covalent-libraries).
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
